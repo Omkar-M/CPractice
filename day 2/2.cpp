@@ -1,3 +1,5 @@
+//Write a Program to Check Whether a Character is Vowel or Consonant.
+
 #include <iostream>
 using namespace std;
 
